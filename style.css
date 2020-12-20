@@ -1,13 +1,4 @@
 body {
- margin: 5rem;
-}
-
-.about {
-    padding: 1.5rem;
-    background: #f4f4f4;
-    text-align: center;
-}
-
-.about {
-    background: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
 }
